@@ -1,0 +1,15 @@
+### node etc ###
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+node_modules/
+bundle.js
+config.js
+mongoconfig.js
+client/dist/videos
