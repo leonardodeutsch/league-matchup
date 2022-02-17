@@ -2,7 +2,9 @@
 
 A fullstack application for the popular videogame League of Legends. Users can search for specific matchups they would like to know about and read other users' comments and tips, as well as add their own comments.
 
-![LeagueMatchup](https://live.staticflickr.com/65535/51887216513_abcb1b3dec_b.jpg)
+
+
+![LeagueMatchup](https://live.staticflickr.com/65535/51888010275_e3141c89f9_h.jpg)
 
 ## Features
 - Updated list of the champion roster based on the Riot Games API.
