@@ -1,6 +1,6 @@
 const champions = [
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Aatrox",
     key: "266",
     name: "Aatrox",
@@ -11,7 +11,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/266.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/266.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/266.png",
       group: "champion",
       x: 0,
       y: 0,
@@ -44,7 +44,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Ahri",
     key: "103",
     name: "Ahri",
@@ -55,7 +55,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/103.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/103.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/103.png",
       group: "champion",
       x: 48,
       y: 0,
@@ -88,7 +88,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Akali",
     key: "84",
     name: "Akali",
@@ -99,7 +99,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/84.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/84.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/84.png",
       group: "champion",
       x: 96,
       y: 0,
@@ -132,7 +132,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Akshan",
     key: "166",
     name: "Akshan",
@@ -143,7 +143,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/166.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/166.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/166.png",
       group: "champion",
       x: 144,
       y: 0,
@@ -176,7 +176,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Alistar",
     key: "12",
     name: "Alistar",
@@ -187,7 +187,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/12.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/12.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/12.png",
       group: "champion",
       x: 192,
       y: 0,
@@ -220,7 +220,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Amumu",
     key: "32",
     name: "Amumu",
@@ -231,7 +231,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/32.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/32.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/32.png",
       group: "champion",
       x: 240,
       y: 0,
@@ -264,7 +264,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Anivia",
     key: "34",
     name: "Anivia",
@@ -275,7 +275,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/34.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/34.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/34.png",
       group: "champion",
       x: 288,
       y: 0,
@@ -308,7 +308,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Annie",
     key: "1",
     name: "Annie",
@@ -319,7 +319,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/1.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/1.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/1.png",
       group: "champion",
       x: 336,
       y: 0,
@@ -352,7 +352,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Aphelios",
     key: "523",
     name: "Aphelios",
@@ -363,7 +363,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/523.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/523.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/523.png",
       group: "champion",
       x: 384,
       y: 0,
@@ -396,7 +396,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Ashe",
     key: "22",
     name: "Ashe",
@@ -407,7 +407,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/22.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/22.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/22.png",
       group: "champion",
       x: 432,
       y: 0,
@@ -440,7 +440,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "AurelionSol",
     key: "136",
     name: "Aurelion Sol",
@@ -451,7 +451,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/136.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/136.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/136.png",
       group: "champion",
       x: 0,
       y: 48,
@@ -484,7 +484,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Azir",
     key: "268",
     name: "Azir",
@@ -495,7 +495,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/268.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/268.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/268.png",
       group: "champion",
       x: 48,
       y: 48,
@@ -528,7 +528,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Bard",
     key: "432",
     name: "Bard",
@@ -539,7 +539,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/432.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/432.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/432.png",
       group: "champion",
       x: 96,
       y: 48,
@@ -572,7 +572,51 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
+    id: "Belveth",
+    key: "200",
+    name: "Bel'Veth",
+    title: "the Empress of the Void",
+    blurb:
+      "A nightmarish empress created from the raw material of an entire devoured city, Bel'Veth is the end of Runeterra itself... and the beginning of a monstrous reality of her own design. Driven by epochs of repurposed history, knowledge, and memories from...",
+    info: { attack: 4, defense: 2, magic: 7, difficulty: 10 },
+    image: {
+      full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/200.jpg",
+      sprite:
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/200.png",
+      group: "champion",
+      x: 144,
+      y: 48,
+      w: 48,
+      h: 48,
+    },
+    tags: ["Fighter"],
+    partype: "",
+    stats: {
+      hp: 610,
+      hpperlevel: 99,
+      mp: 60,
+      mpperlevel: 0,
+      movespeed: 340,
+      armor: 32,
+      armorperlevel: 4.7,
+      spellblock: 32,
+      spellblockperlevel: 2.05,
+      attackrange: 175,
+      hpregen: 6,
+      hpregenperlevel: 0.6,
+      mpregen: 0,
+      mpregenperlevel: 0,
+      crit: 0,
+      critperlevel: 0,
+      attackdamage: 60,
+      attackdamageperlevel: 1.5,
+      attackspeedperlevel: 0,
+      attackspeed: 0.85,
+    },
+  },
+  {
+    version: "13.18.1",
     id: "Blitzcrank",
     key: "53",
     name: "Blitzcrank",
@@ -583,7 +627,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/53.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/53.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/53.png",
       group: "champion",
       x: 144,
       y: 48,
@@ -616,7 +660,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Brand",
     key: "63",
     name: "Brand",
@@ -627,7 +671,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/63.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/63.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/63.png",
       group: "champion",
       x: 192,
       y: 48,
@@ -660,7 +704,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Braum",
     key: "201",
     name: "Braum",
@@ -671,7 +715,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/201.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/201.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/201.png",
       group: "champion",
       x: 240,
       y: 48,
@@ -704,7 +748,51 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
+    id: "Briar",
+    key: "233",
+    name: "Briar",
+    title: "the Restrained Hunger",
+    blurb:
+      "A failed experiment by the Black Rose, Briar's uncontrollable bloodlust required a special pillory to focus her frenzied mind. After years of confinement, this living weapon broke free from her restraints and unleashed herself into the world. Now she's...",
+    info: { attack: 9, defense: 5, magic: 3, difficulty: 3 },
+    image: {
+      full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/233.jpg",
+      sprite:
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/233.png",
+      group: "champion",
+      x: 336,
+      y: 48,
+      w: 48,
+      h: 48,
+    },
+    tags: ["Fighter", "Assassin"],
+    partype: "None",
+    stats: {
+      hp: 590,
+      hpperlevel: 100,
+      mp: 0,
+      mpperlevel: 0,
+      movespeed: 340,
+      armor: 32,
+      armorperlevel: 4.2,
+      spellblock: 32,
+      spellblockperlevel: 2.05,
+      attackrange: 125,
+      hpregen: 0,
+      hpregenperlevel: 0,
+      mpregen: 0,
+      mpregenperlevel: 0,
+      crit: 0,
+      critperlevel: 0,
+      attackdamage: 60,
+      attackdamageperlevel: 3,
+      attackspeedperlevel: 2.5,
+      attackspeed: 0.644,
+    },
+  },
+  {
+    version: "13.18.1",
     id: "Caitlyn",
     key: "51",
     name: "Caitlyn",
@@ -715,7 +803,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/51.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/51.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/51.png",
       group: "champion",
       x: 288,
       y: 48,
@@ -748,7 +836,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Camille",
     key: "164",
     name: "Camille",
@@ -759,7 +847,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/164.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/164.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/164.png",
       group: "champion",
       x: 336,
       y: 48,
@@ -792,7 +880,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Cassiopeia",
     key: "69",
     name: "Cassiopeia",
@@ -803,7 +891,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/69.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/69.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/69.png",
       group: "champion",
       x: 384,
       y: 48,
@@ -836,7 +924,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Chogath",
     key: "31",
     name: "Cho'Gath",
@@ -847,7 +935,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/31.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/31.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/31.png",
       group: "champion",
       x: 432,
       y: 48,
@@ -880,7 +968,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Corki",
     key: "42",
     name: "Corki",
@@ -891,7 +979,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/42.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/42.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/42.png",
       group: "champion",
       x: 0,
       y: 96,
@@ -924,7 +1012,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Darius",
     key: "122",
     name: "Darius",
@@ -935,7 +1023,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/122.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/122.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/122.png",
       group: "champion",
       x: 48,
       y: 96,
@@ -968,7 +1056,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Diana",
     key: "131",
     name: "Diana",
@@ -979,7 +1067,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/131.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/131.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/131.png",
       group: "champion",
       x: 96,
       y: 96,
@@ -1012,7 +1100,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Draven",
     key: "119",
     name: "Draven",
@@ -1023,7 +1111,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/119.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/119.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/119.png",
       group: "champion",
       x: 144,
       y: 96,
@@ -1056,7 +1144,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "DrMundo",
     key: "36",
     name: "Dr. Mundo",
@@ -1067,7 +1155,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/36.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/36.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/36.png",
       group: "champion",
       x: 192,
       y: 96,
@@ -1100,7 +1188,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Ekko",
     key: "245",
     name: "Ekko",
@@ -1111,7 +1199,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/245.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/245.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/245.png",
       group: "champion",
       x: 240,
       y: 96,
@@ -1144,7 +1232,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Elise",
     key: "60",
     name: "Elise",
@@ -1155,7 +1243,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/60.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/60.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/60.png",
       group: "champion",
       x: 288,
       y: 96,
@@ -1188,7 +1276,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Evelynn",
     key: "28",
     name: "Evelynn",
@@ -1199,7 +1287,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/28.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/28.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/28.png",
       group: "champion",
       x: 336,
       y: 96,
@@ -1232,7 +1320,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Ezreal",
     key: "81",
     name: "Ezreal",
@@ -1243,7 +1331,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/81.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/81.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/81.png",
       group: "champion",
       x: 384,
       y: 96,
@@ -1276,7 +1364,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Fiddlesticks",
     key: "9",
     name: "Fiddlesticks",
@@ -1287,7 +1375,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/9.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/9.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/9.png",
       group: "champion",
       x: 432,
       y: 96,
@@ -1320,7 +1408,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Fiora",
     key: "114",
     name: "Fiora",
@@ -1331,7 +1419,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/114.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/114.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/114.png",
       group: "champion",
       x: 0,
       y: 0,
@@ -1364,7 +1452,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Fizz",
     key: "105",
     name: "Fizz",
@@ -1375,7 +1463,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/105.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/105.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/105.png",
       group: "champion",
       x: 48,
       y: 0,
@@ -1408,7 +1496,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Galio",
     key: "3",
     name: "Galio",
@@ -1419,7 +1507,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/3.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/3.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/3.png",
       group: "champion",
       x: 96,
       y: 0,
@@ -1452,7 +1540,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Gangplank",
     key: "41",
     name: "Gangplank",
@@ -1463,7 +1551,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/41.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/41.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/41.png",
       group: "champion",
       x: 144,
       y: 0,
@@ -1496,7 +1584,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Garen",
     key: "86",
     name: "Garen",
@@ -1507,7 +1595,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/86.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/86.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/86.png",
       group: "champion",
       x: 192,
       y: 0,
@@ -1540,7 +1628,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Gnar",
     key: "150",
     name: "Gnar",
@@ -1551,7 +1639,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/150.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/150.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/150.png",
       group: "champion",
       x: 240,
       y: 0,
@@ -1584,7 +1672,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Gragas",
     key: "79",
     name: "Gragas",
@@ -1595,7 +1683,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/79.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/79.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/79.png",
       group: "champion",
       x: 288,
       y: 0,
@@ -1628,7 +1716,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Graves",
     key: "104",
     name: "Graves",
@@ -1639,7 +1727,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/104.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/104.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/104.png",
       group: "champion",
       x: 336,
       y: 0,
@@ -1672,7 +1760,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Gwen",
     key: "887",
     name: "Gwen",
@@ -1683,7 +1771,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/887.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/887.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/887.png",
       group: "champion",
       x: 384,
       y: 0,
@@ -1716,7 +1804,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Hecarim",
     key: "120",
     name: "Hecarim",
@@ -1727,7 +1815,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/120.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/120.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/120.png",
       group: "champion",
       x: 432,
       y: 0,
@@ -1760,7 +1848,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Heimerdinger",
     key: "74",
     name: "Heimerdinger",
@@ -1771,7 +1859,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/74.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/74.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/74.png",
       group: "champion",
       x: 0,
       y: 48,
@@ -1804,7 +1892,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Illaoi",
     key: "420",
     name: "Illaoi",
@@ -1815,7 +1903,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/420.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/420.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/420.png",
       group: "champion",
       x: 48,
       y: 48,
@@ -1848,7 +1936,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Irelia",
     key: "39",
     name: "Irelia",
@@ -1859,7 +1947,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/39.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/39.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/39.png",
       group: "champion",
       x: 96,
       y: 48,
@@ -1892,7 +1980,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Ivern",
     key: "427",
     name: "Ivern",
@@ -1903,7 +1991,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/427.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/427.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/427.png",
       group: "champion",
       x: 144,
       y: 48,
@@ -1936,7 +2024,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Janna",
     key: "40",
     name: "Janna",
@@ -1947,7 +2035,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/40.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/40.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/40.png",
       group: "champion",
       x: 192,
       y: 48,
@@ -1980,7 +2068,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "JarvanIV",
     key: "59",
     name: "Jarvan IV",
@@ -1991,7 +2079,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/59.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/59.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/59.png",
       group: "champion",
       x: 240,
       y: 48,
@@ -2024,7 +2112,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Jax",
     key: "24",
     name: "Jax",
@@ -2035,7 +2123,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/24.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/24.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/24.png",
       group: "champion",
       x: 288,
       y: 48,
@@ -2068,7 +2156,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Jayce",
     key: "126",
     name: "Jayce",
@@ -2079,7 +2167,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/126.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/126.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/126.png",
       group: "champion",
       x: 336,
       y: 48,
@@ -2112,7 +2200,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Jhin",
     key: "202",
     name: "Jhin",
@@ -2123,7 +2211,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/202.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/202.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/202.png",
       group: "champion",
       x: 384,
       y: 48,
@@ -2156,7 +2244,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Jinx",
     key: "222",
     name: "Jinx",
@@ -2167,7 +2255,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/222.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/222.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/222.png",
       group: "champion",
       x: 432,
       y: 48,
@@ -2200,7 +2288,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Kaisa",
     key: "145",
     name: "Kai'Sa",
@@ -2211,7 +2299,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/145.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/145.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/145.png",
       group: "champion",
       x: 0,
       y: 96,
@@ -2244,7 +2332,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Kalista",
     key: "429",
     name: "Kalista",
@@ -2255,7 +2343,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/429.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/429.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/429.png",
       group: "champion",
       x: 48,
       y: 96,
@@ -2288,7 +2376,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Karma",
     key: "43",
     name: "Karma",
@@ -2299,7 +2387,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/43.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/43.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/43.png",
       group: "champion",
       x: 96,
       y: 96,
@@ -2332,7 +2420,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Karthus",
     key: "30",
     name: "Karthus",
@@ -2343,7 +2431,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/30.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/30.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/30.png",
       group: "champion",
       x: 144,
       y: 96,
@@ -2376,7 +2464,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Kassadin",
     key: "38",
     name: "Kassadin",
@@ -2387,7 +2475,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/38.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/38.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/38.png",
       group: "champion",
       x: 192,
       y: 96,
@@ -2420,7 +2508,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Katarina",
     key: "55",
     name: "Katarina",
@@ -2431,7 +2519,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/55.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/55.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/55.png",
       group: "champion",
       x: 240,
       y: 96,
@@ -2464,7 +2552,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Kayle",
     key: "10",
     name: "Kayle",
@@ -2475,7 +2563,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/10.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/10.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/10.png",
       group: "champion",
       x: 288,
       y: 96,
@@ -2508,7 +2596,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Kayn",
     key: "141",
     name: "Kayn",
@@ -2519,7 +2607,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/141.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/141.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/141.png",
       group: "champion",
       x: 336,
       y: 96,
@@ -2552,7 +2640,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Kennen",
     key: "85",
     name: "Kennen",
@@ -2563,7 +2651,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/85.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/85.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/85.png",
       group: "champion",
       x: 384,
       y: 96,
@@ -2596,7 +2684,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Khazix",
     key: "121",
     name: "Kha'Zix",
@@ -2607,7 +2695,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/121.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/121.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/121.png",
       group: "champion",
       x: 432,
       y: 96,
@@ -2640,7 +2728,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Kindred",
     key: "203",
     name: "Kindred",
@@ -2651,7 +2739,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/203.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/203.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/203.png",
       group: "champion",
       x: 0,
       y: 0,
@@ -2684,7 +2772,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Kled",
     key: "240",
     name: "Kled",
@@ -2695,7 +2783,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/240.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/240.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/240.png",
       group: "champion",
       x: 48,
       y: 0,
@@ -2728,7 +2816,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "KogMaw",
     key: "96",
     name: "Kog'Maw",
@@ -2739,7 +2827,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/96.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/96.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/96.png",
       group: "champion",
       x: 96,
       y: 0,
@@ -2772,7 +2860,51 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
+    id: "KSante",
+    key: "897",
+    name: "K'Sante",
+    title: "the Pride of Nazumah",
+    blurb:
+      "Defiant and courageous, K'Sante battles colossal beasts and ruthless Ascended to protect his home of Nazumah, a coveted oasis amid the sands of Shurima. But after a falling-out with his former partner, K'Sante realizes that in order to become a warrior...",
+    info: { attack: 8, defense: 8, magic: 7, difficulty: 9 },
+    image: {
+      full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/897.jpg",
+      sprite:
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/897.png",
+      group: "champion",
+      x: 240,
+      y: 0,
+      w: 48,
+      h: 48,
+    },
+    tags: ["Tank", "Fighter"],
+    partype: "Mana",
+    stats: {
+      hp: 610,
+      hpperlevel: 108,
+      mp: 290,
+      mpperlevel: 60,
+      movespeed: 330,
+      armor: 33,
+      armorperlevel: 4.7,
+      spellblock: 30,
+      spellblockperlevel: 2.1,
+      attackrange: 175,
+      hpregen: 9.5,
+      hpregenperlevel: 0.85,
+      mpregen: 7,
+      mpregenperlevel: 1,
+      crit: 0,
+      critperlevel: 0,
+      attackdamage: 64,
+      attackdamageperlevel: 3.5,
+      attackspeedperlevel: 2.5,
+      attackspeed: 0.625,
+    },
+  },
+  {
+    version: "13.18.1",
     id: "Leblanc",
     key: "7",
     name: "LeBlanc",
@@ -2783,7 +2915,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/7.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/7.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/7.png",
       group: "champion",
       x: 144,
       y: 0,
@@ -2816,7 +2948,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "LeeSin",
     key: "64",
     name: "Lee Sin",
@@ -2827,7 +2959,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/64.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/64.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/64.png",
       group: "champion",
       x: 192,
       y: 0,
@@ -2860,7 +2992,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Leona",
     key: "89",
     name: "Leona",
@@ -2871,7 +3003,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/89.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/89.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/89.png",
       group: "champion",
       x: 240,
       y: 0,
@@ -2904,7 +3036,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Lillia",
     key: "876",
     name: "Lillia",
@@ -2915,7 +3047,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/876.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/876.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/876.png",
       group: "champion",
       x: 288,
       y: 0,
@@ -2948,7 +3080,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Lissandra",
     key: "127",
     name: "Lissandra",
@@ -2959,7 +3091,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/127.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/127.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/127.png",
       group: "champion",
       x: 336,
       y: 0,
@@ -2992,7 +3124,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Lucian",
     key: "236",
     name: "Lucian",
@@ -3003,7 +3135,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/236.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/236.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/236.png",
       group: "champion",
       x: 384,
       y: 0,
@@ -3036,7 +3168,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Lulu",
     key: "117",
     name: "Lulu",
@@ -3047,7 +3179,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/117.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/117.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/117.png",
       group: "champion",
       x: 432,
       y: 0,
@@ -3080,7 +3212,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Lux",
     key: "99",
     name: "Lux",
@@ -3091,7 +3223,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/99.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/99.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/99.png",
       group: "champion",
       x: 0,
       y: 48,
@@ -3124,7 +3256,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Malphite",
     key: "54",
     name: "Malphite",
@@ -3135,7 +3267,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/54.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/54.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/54.png",
       group: "champion",
       x: 48,
       y: 48,
@@ -3168,7 +3300,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Malzahar",
     key: "90",
     name: "Malzahar",
@@ -3179,7 +3311,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/90.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/90.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/90.png",
       group: "champion",
       x: 96,
       y: 48,
@@ -3212,7 +3344,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Maokai",
     key: "57",
     name: "Maokai",
@@ -3223,7 +3355,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/57.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/57.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/57.png",
       group: "champion",
       x: 144,
       y: 48,
@@ -3256,7 +3388,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "MasterYi",
     key: "11",
     name: "Master Yi",
@@ -3267,7 +3399,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/11.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/11.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/11.png",
       group: "champion",
       x: 192,
       y: 48,
@@ -3300,7 +3432,51 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
+    id: "Milio",
+    key: "902",
+    name: "Milio",
+    title: "The Gentle Flame",
+    blurb:
+      "Milio is a warmhearted boy from Ixtal who has, despite his young age, mastered the fire axiom and discovered something new: soothing fire. With this newfound power, Milio plans to help his family escape their exile by joining the Yun Tal—just like his...",
+    info: { attack: 2, defense: 4, magic: 8, difficulty: 5 },
+    image: {
+      full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/902.jpg",
+      sprite:
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/902.png",
+      group: "champion",
+      x: 384,
+      y: 48,
+      w: 48,
+      h: 48,
+    },
+    tags: ["Support"],
+    partype: "Mana",
+    stats: {
+      hp: 560,
+      hpperlevel: 88,
+      mp: 365,
+      mpperlevel: 43,
+      movespeed: 330,
+      armor: 26,
+      armorperlevel: 4.6,
+      spellblock: 30,
+      spellblockperlevel: 1.3,
+      attackrange: 525,
+      hpregen: 5,
+      hpregenperlevel: 0.5,
+      mpregen: 11.5,
+      mpregenperlevel: 0.4,
+      crit: 0,
+      critperlevel: 0,
+      attackdamage: 48,
+      attackdamageperlevel: 3.2,
+      attackspeedperlevel: 3,
+      attackspeed: 0.625,
+    },
+  },
+  {
+    version: "13.18.1",
     id: "MissFortune",
     key: "21",
     name: "Miss Fortune",
@@ -3311,7 +3487,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/21.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/21.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/21.png",
       group: "champion",
       x: 240,
       y: 48,
@@ -3344,7 +3520,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "MonkeyKing",
     key: "62",
     name: "Wukong",
@@ -3355,7 +3531,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/62.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/62.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/62.png",
       group: "champion",
       x: 288,
       y: 48,
@@ -3388,7 +3564,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Mordekaiser",
     key: "82",
     name: "Mordekaiser",
@@ -3399,7 +3575,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/82.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/82.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/82.png",
       group: "champion",
       x: 336,
       y: 48,
@@ -3432,7 +3608,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Morgana",
     key: "25",
     name: "Morgana",
@@ -3443,7 +3619,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/25.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/25.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/25.png",
       group: "champion",
       x: 384,
       y: 48,
@@ -3476,7 +3652,51 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
+    id: "Naafiri",
+    key: "950",
+    name: "Naafiri",
+    title: "the Hound of a Hundred Bites",
+    blurb:
+      "Across the sands of Shurima, a chorus of howls rings out. It is the call of the dune hounds, voracious predators who form packs and compete for the right to hunt in these barren lands. Among them, one pack stands above all, for they are driven not only...",
+    info: { attack: 9, defense: 5, magic: 0, difficulty: 2 },
+    image: {
+      full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/950.jpg",
+      sprite:
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/950.png",
+      group: "champion",
+      x: 144,
+      y: 96,
+      w: 48,
+      h: 48,
+    },
+    tags: ["Assassin"],
+    partype: "Mana",
+    stats: {
+      hp: 635,
+      hpperlevel: 120,
+      mp: 400,
+      mpperlevel: 55,
+      movespeed: 335,
+      armor: 30,
+      armorperlevel: 4.7,
+      spellblock: 32,
+      spellblockperlevel: 2.05,
+      attackrange: 125,
+      hpregen: 9,
+      hpregenperlevel: 0.9,
+      mpregen: 7.5,
+      mpregenperlevel: 1,
+      crit: 0,
+      critperlevel: 0,
+      attackdamage: 55,
+      attackdamageperlevel: 2.1,
+      attackspeedperlevel: 2.1,
+      attackspeed: 0.663,
+    },
+  },
+  {
+    version: "13.18.1",
     id: "Nami",
     key: "267",
     name: "Nami",
@@ -3487,7 +3707,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/267.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/267.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/267.png",
       group: "champion",
       x: 432,
       y: 48,
@@ -3520,7 +3740,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Nasus",
     key: "75",
     name: "Nasus",
@@ -3531,7 +3751,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/75.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/75.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/75.png",
       group: "champion",
       x: 0,
       y: 96,
@@ -3564,7 +3784,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Nautilus",
     key: "111",
     name: "Nautilus",
@@ -3575,7 +3795,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/111.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/111.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/111.png",
       group: "champion",
       x: 48,
       y: 96,
@@ -3608,7 +3828,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Neeko",
     key: "518",
     name: "Neeko",
@@ -3619,7 +3839,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/518.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/518.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/518.png",
       group: "champion",
       x: 96,
       y: 96,
@@ -3652,7 +3872,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Nidalee",
     key: "76",
     name: "Nidalee",
@@ -3663,7 +3883,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/76.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/76.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/76.png",
       group: "champion",
       x: 144,
       y: 96,
@@ -3696,7 +3916,51 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
+    id: "Nilah",
+    key: "895",
+    name: "Nilah",
+    title: "the Joy Unbound",
+    blurb:
+      "Nilah is an ascetic warrior from a distant land, seeking the world's deadliest, most titanic opponents so that she might challenge and destroy them. Having won her power through an encounter with the long-imprisoned demon of joy, she has no emotions...",
+    info: { attack: 8, defense: 4, magic: 4, difficulty: 10 },
+    image: {
+      full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/895.jpg",
+      sprite:
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/895.png",
+      group: "champion",
+      x: 432,
+      y: 96,
+      w: 48,
+      h: 48,
+    },
+    tags: ["Fighter", "Assassin"],
+    partype: "Mana",
+    stats: {
+      hp: 570,
+      hpperlevel: 101,
+      mp: 350,
+      mpperlevel: 35,
+      movespeed: 340,
+      armor: 27,
+      armorperlevel: 4.2,
+      spellblock: 32,
+      spellblockperlevel: 2.05,
+      attackrange: 225,
+      hpregen: 4,
+      hpregenperlevel: 0.9,
+      mpregen: 8.2,
+      mpregenperlevel: 0.7,
+      crit: 0,
+      critperlevel: 0,
+      attackdamage: 58,
+      attackdamageperlevel: 2,
+      attackspeedperlevel: 3,
+      attackspeed: 0.697,
+    },
+  },
+  {
+    version: "13.18.1",
     id: "Nocturne",
     key: "56",
     name: "Nocturne",
@@ -3707,7 +3971,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/56.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/56.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/56.png",
       group: "champion",
       x: 192,
       y: 96,
@@ -3740,7 +4004,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Nunu",
     key: "20",
     name: "Nunu & Willump",
@@ -3751,7 +4015,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/20.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/20.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/20.png",
       group: "champion",
       x: 240,
       y: 96,
@@ -3784,7 +4048,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Olaf",
     key: "2",
     name: "Olaf",
@@ -3795,7 +4059,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/2.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/2.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/2.png",
       group: "champion",
       x: 288,
       y: 96,
@@ -3828,7 +4092,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Orianna",
     key: "61",
     name: "Orianna",
@@ -3839,7 +4103,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/61.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/61.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/61.png",
       group: "champion",
       x: 336,
       y: 96,
@@ -3872,7 +4136,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Ornn",
     key: "516",
     name: "Ornn",
@@ -3883,7 +4147,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/516.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/516.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/516.png",
       group: "champion",
       x: 384,
       y: 96,
@@ -3916,7 +4180,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Pantheon",
     key: "80",
     name: "Pantheon",
@@ -3927,7 +4191,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/80.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/80.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/80.png",
       group: "champion",
       x: 432,
       y: 96,
@@ -3960,7 +4224,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Poppy",
     key: "78",
     name: "Poppy",
@@ -3971,7 +4235,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/78.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/78.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/78.png",
       group: "champion",
       x: 0,
       y: 0,
@@ -4004,7 +4268,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Pyke",
     key: "555",
     name: "Pyke",
@@ -4015,7 +4279,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/555.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/555.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/555.png",
       group: "champion",
       x: 48,
       y: 0,
@@ -4048,7 +4312,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Qiyana",
     key: "246",
     name: "Qiyana",
@@ -4059,7 +4323,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/246.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/246.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/246.png",
       group: "champion",
       x: 96,
       y: 0,
@@ -4092,7 +4356,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Quinn",
     key: "133",
     name: "Quinn",
@@ -4103,7 +4367,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/133.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/133.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/133.png",
       group: "champion",
       x: 144,
       y: 0,
@@ -4136,7 +4400,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Rakan",
     key: "497",
     name: "Rakan",
@@ -4147,7 +4411,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/497.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/497.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/497.png",
       group: "champion",
       x: 192,
       y: 0,
@@ -4180,7 +4444,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Rammus",
     key: "33",
     name: "Rammus",
@@ -4191,7 +4455,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/33.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/33.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/33.png",
       group: "champion",
       x: 240,
       y: 0,
@@ -4224,7 +4488,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "RekSai",
     key: "421",
     name: "Rek'Sai",
@@ -4235,7 +4499,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/421.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/421.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/421.png",
       group: "champion",
       x: 288,
       y: 0,
@@ -4268,7 +4532,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Rell",
     key: "526",
     name: "Rell",
@@ -4279,7 +4543,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/526.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/526.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/526.png",
       group: "champion",
       x: 336,
       y: 0,
@@ -4312,7 +4576,51 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
+    id: "Renata",
+    key: "888",
+    name: "Renata Glasc",
+    title: "the Chem-Baroness",
+    blurb:
+      "Renata Glasc rose from the ashes of her childhood home with nothing but her name and her parents' alchemical research. In the decades since, she has become Zaun's wealthiest chem-baron, a business magnate who built her power by tying everyone's...",
+    info: { attack: 2, defense: 6, magic: 9, difficulty: 8 },
+    image: {
+      full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/888.jpg",
+      sprite:
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/888.png",
+      group: "champion",
+      x: 192,
+      y: 48,
+      w: 48,
+      h: 48,
+    },
+    tags: ["Support", "Mage"],
+    partype: "Mana",
+    stats: {
+      hp: 545,
+      hpperlevel: 94,
+      mp: 350,
+      mpperlevel: 50,
+      movespeed: 330,
+      armor: 27,
+      armorperlevel: 4.7,
+      spellblock: 30,
+      spellblockperlevel: 1.3,
+      attackrange: 550,
+      hpregen: 5.5,
+      hpregenperlevel: 0.55,
+      mpregen: 11.5,
+      mpregenperlevel: 0.5,
+      crit: 0,
+      critperlevel: 0,
+      attackdamage: 49,
+      attackdamageperlevel: 3,
+      attackspeedperlevel: 2.11,
+      attackspeed: 0.625,
+    },
+  },
+  {
+    version: "13.18.1",
     id: "Renekton",
     key: "58",
     name: "Renekton",
@@ -4323,7 +4631,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/58.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/58.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/58.png",
       group: "champion",
       x: 384,
       y: 0,
@@ -4356,7 +4664,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Rengar",
     key: "107",
     name: "Rengar",
@@ -4367,7 +4675,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/107.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/107.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/107.png",
       group: "champion",
       x: 432,
       y: 0,
@@ -4400,7 +4708,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Riven",
     key: "92",
     name: "Riven",
@@ -4411,7 +4719,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/92.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/92.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/92.png",
       group: "champion",
       x: 0,
       y: 48,
@@ -4444,7 +4752,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Rumble",
     key: "68",
     name: "Rumble",
@@ -4455,7 +4763,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/68.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/68.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/68.png",
       group: "champion",
       x: 48,
       y: 48,
@@ -4488,7 +4796,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Ryze",
     key: "13",
     name: "Ryze",
@@ -4499,7 +4807,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/13.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/13.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/13.png",
       group: "champion",
       x: 96,
       y: 48,
@@ -4532,7 +4840,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Samira",
     key: "360",
     name: "Samira",
@@ -4543,7 +4851,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/360.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/360.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/360.png",
       group: "champion",
       x: 144,
       y: 48,
@@ -4576,7 +4884,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Sejuani",
     key: "113",
     name: "Sejuani",
@@ -4587,7 +4895,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/113.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/113.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/113.png",
       group: "champion",
       x: 192,
       y: 48,
@@ -4620,7 +4928,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Senna",
     key: "235",
     name: "Senna",
@@ -4631,7 +4939,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/235.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/235.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/235.png",
       group: "champion",
       x: 240,
       y: 48,
@@ -4664,7 +4972,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Seraphine",
     key: "147",
     name: "Seraphine",
@@ -4675,7 +4983,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/147.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/147.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/147.png",
       group: "champion",
       x: 288,
       y: 48,
@@ -4708,7 +5016,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Sett",
     key: "875",
     name: "Sett",
@@ -4719,7 +5027,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/875.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/875.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/875.png",
       group: "champion",
       x: 336,
       y: 48,
@@ -4752,7 +5060,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Shaco",
     key: "35",
     name: "Shaco",
@@ -4763,7 +5071,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/35.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/35.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/35.png",
       group: "champion",
       x: 384,
       y: 48,
@@ -4796,7 +5104,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Shen",
     key: "98",
     name: "Shen",
@@ -4807,7 +5115,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/98.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/98.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/98.png",
       group: "champion",
       x: 432,
       y: 48,
@@ -4840,7 +5148,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Shyvana",
     key: "102",
     name: "Shyvana",
@@ -4851,7 +5159,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/102.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/102.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/102.png",
       group: "champion",
       x: 0,
       y: 96,
@@ -4884,7 +5192,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Singed",
     key: "27",
     name: "Singed",
@@ -4895,7 +5203,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/27.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/27.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/27.png",
       group: "champion",
       x: 48,
       y: 96,
@@ -4928,7 +5236,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Sion",
     key: "14",
     name: "Sion",
@@ -4939,7 +5247,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/14.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/14.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/14.png",
       group: "champion",
       x: 96,
       y: 96,
@@ -4972,7 +5280,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Sivir",
     key: "15",
     name: "Sivir",
@@ -4983,7 +5291,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/15.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/15.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/15.png",
       group: "champion",
       x: 144,
       y: 96,
@@ -5016,7 +5324,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Skarner",
     key: "72",
     name: "Skarner",
@@ -5027,7 +5335,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/72.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/72.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/72.png",
       group: "champion",
       x: 192,
       y: 96,
@@ -5060,7 +5368,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Sona",
     key: "37",
     name: "Sona",
@@ -5071,7 +5379,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/37.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/37.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/37.png",
       group: "champion",
       x: 240,
       y: 96,
@@ -5104,7 +5412,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Soraka",
     key: "16",
     name: "Soraka",
@@ -5115,7 +5423,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/16.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/16.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/16.png",
       group: "champion",
       x: 288,
       y: 96,
@@ -5148,7 +5456,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Swain",
     key: "50",
     name: "Swain",
@@ -5159,7 +5467,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/50.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/50.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/50.png",
       group: "champion",
       x: 336,
       y: 96,
@@ -5192,7 +5500,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Sylas",
     key: "517",
     name: "Sylas",
@@ -5203,7 +5511,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/517.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/517.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/517.png",
       group: "champion",
       x: 384,
       y: 96,
@@ -5236,7 +5544,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Syndra",
     key: "134",
     name: "Syndra",
@@ -5247,7 +5555,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/134.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/134.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/134.png",
       group: "champion",
       x: 432,
       y: 96,
@@ -5280,7 +5588,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "TahmKench",
     key: "223",
     name: "Tahm Kench",
@@ -5291,7 +5599,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/223.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/223.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/223.png",
       group: "champion",
       x: 0,
       y: 0,
@@ -5324,7 +5632,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Taliyah",
     key: "163",
     name: "Taliyah",
@@ -5335,7 +5643,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/163.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/163.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/163.png",
       group: "champion",
       x: 48,
       y: 0,
@@ -5368,7 +5676,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Talon",
     key: "91",
     name: "Talon",
@@ -5379,7 +5687,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/91.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/91.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/91.png",
       group: "champion",
       x: 96,
       y: 0,
@@ -5412,7 +5720,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Taric",
     key: "44",
     name: "Taric",
@@ -5423,7 +5731,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/44.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/44.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/44.png",
       group: "champion",
       x: 144,
       y: 0,
@@ -5456,7 +5764,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Teemo",
     key: "17",
     name: "Teemo",
@@ -5467,7 +5775,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/17.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/17.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/17.png",
       group: "champion",
       x: 192,
       y: 0,
@@ -5500,7 +5808,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Thresh",
     key: "412",
     name: "Thresh",
@@ -5511,7 +5819,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/412.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/412.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/412.png",
       group: "champion",
       x: 240,
       y: 0,
@@ -5544,7 +5852,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Tristana",
     key: "18",
     name: "Tristana",
@@ -5555,7 +5863,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/18.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/18.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/18.png",
       group: "champion",
       x: 288,
       y: 0,
@@ -5588,7 +5896,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Trundle",
     key: "48",
     name: "Trundle",
@@ -5599,7 +5907,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/48.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/48.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/48.png",
       group: "champion",
       x: 336,
       y: 0,
@@ -5632,7 +5940,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Tryndamere",
     key: "23",
     name: "Tryndamere",
@@ -5643,7 +5951,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/23.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/23.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/23.png",
       group: "champion",
       x: 384,
       y: 0,
@@ -5676,7 +5984,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "TwistedFate",
     key: "4",
     name: "Twisted Fate",
@@ -5687,7 +5995,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/4.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/4.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/4.png",
       group: "champion",
       x: 432,
       y: 0,
@@ -5720,7 +6028,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Twitch",
     key: "29",
     name: "Twitch",
@@ -5731,7 +6039,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/29.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/29.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/29.png",
       group: "champion",
       x: 0,
       y: 48,
@@ -5764,7 +6072,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Udyr",
     key: "77",
     name: "Udyr",
@@ -5775,7 +6083,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/77.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/77.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/77.png",
       group: "champion",
       x: 48,
       y: 48,
@@ -5808,7 +6116,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Urgot",
     key: "6",
     name: "Urgot",
@@ -5819,7 +6127,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/6.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/6.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/6.png",
       group: "champion",
       x: 96,
       y: 48,
@@ -5852,7 +6160,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Varus",
     key: "110",
     name: "Varus",
@@ -5863,7 +6171,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/110.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/110.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/110.png",
       group: "champion",
       x: 144,
       y: 48,
@@ -5896,7 +6204,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Vayne",
     key: "67",
     name: "Vayne",
@@ -5907,7 +6215,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/67.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/67.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/67.png",
       group: "champion",
       x: 192,
       y: 48,
@@ -5940,7 +6248,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Veigar",
     key: "45",
     name: "Veigar",
@@ -5951,7 +6259,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/45.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/45.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/45.png",
       group: "champion",
       x: 240,
       y: 48,
@@ -5984,7 +6292,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Velkoz",
     key: "161",
     name: "Vel'Koz",
@@ -5995,7 +6303,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/161.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/161.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/161.png",
       group: "champion",
       x: 288,
       y: 48,
@@ -6028,7 +6336,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Vex",
     key: "711",
     name: "Vex",
@@ -6039,7 +6347,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/711.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/711.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/711.png",
       group: "champion",
       x: 336,
       y: 48,
@@ -6072,7 +6380,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Vi",
     key: "254",
     name: "Vi",
@@ -6083,7 +6391,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/254.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/254.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/254.png",
       group: "champion",
       x: 384,
       y: 48,
@@ -6116,7 +6424,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Viego",
     key: "234",
     name: "Viego",
@@ -6127,7 +6435,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/234.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/234.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/234.png",
       group: "champion",
       x: 432,
       y: 48,
@@ -6160,7 +6468,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Viktor",
     key: "112",
     name: "Viktor",
@@ -6171,7 +6479,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/112.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/112.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/112.png",
       group: "champion",
       x: 0,
       y: 96,
@@ -6204,7 +6512,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Vladimir",
     key: "8",
     name: "Vladimir",
@@ -6215,7 +6523,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/8.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/8.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/8.png",
       group: "champion",
       x: 48,
       y: 96,
@@ -6248,7 +6556,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Volibear",
     key: "106",
     name: "Volibear",
@@ -6259,7 +6567,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/106.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/106.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/106.png",
       group: "champion",
       x: 96,
       y: 96,
@@ -6292,7 +6600,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Warwick",
     key: "19",
     name: "Warwick",
@@ -6303,7 +6611,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/19.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/19.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/19.png",
       group: "champion",
       x: 144,
       y: 96,
@@ -6336,7 +6644,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Xayah",
     key: "498",
     name: "Xayah",
@@ -6347,7 +6655,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/498.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/498.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/498.png",
       group: "champion",
       x: 192,
       y: 96,
@@ -6380,7 +6688,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Xerath",
     key: "101",
     name: "Xerath",
@@ -6391,7 +6699,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/101.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/101.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/101.png",
       group: "champion",
       x: 240,
       y: 96,
@@ -6424,7 +6732,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "XinZhao",
     key: "5",
     name: "Xin Zhao",
@@ -6435,7 +6743,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/5.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/5.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/5.png",
       group: "champion",
       x: 288,
       y: 96,
@@ -6468,7 +6776,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Yasuo",
     key: "157",
     name: "Yasuo",
@@ -6479,7 +6787,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/157.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/157.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/157.png",
       group: "champion",
       x: 336,
       y: 96,
@@ -6512,7 +6820,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Yone",
     key: "777",
     name: "Yone",
@@ -6523,7 +6831,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/777.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/777.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/777.png",
       group: "champion",
       x: 384,
       y: 96,
@@ -6556,7 +6864,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Yorick",
     key: "83",
     name: "Yorick",
@@ -6567,7 +6875,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/83.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/83.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/83.png",
       group: "champion",
       x: 432,
       y: 96,
@@ -6600,7 +6908,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Yuumi",
     key: "350",
     name: "Yuumi",
@@ -6611,7 +6919,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/350.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/350.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/350.png",
       group: "champion",
       x: 0,
       y: 0,
@@ -6644,7 +6952,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Zac",
     key: "154",
     name: "Zac",
@@ -6655,7 +6963,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/154.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/154.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/154.png",
       group: "champion",
       x: 48,
       y: 0,
@@ -6688,7 +6996,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Zed",
     key: "238",
     name: "Zed",
@@ -6699,7 +7007,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/238.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/238.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/238.png",
       group: "champion",
       x: 96,
       y: 0,
@@ -6732,7 +7040,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Zeri",
     key: "221",
     name: "Zeri",
@@ -6743,7 +7051,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/221.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/221.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/221.png",
       group: "champion",
       x: 144,
       y: 0,
@@ -6776,7 +7084,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Ziggs",
     key: "115",
     name: "Ziggs",
@@ -6787,7 +7095,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/115.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/115.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/115.png",
       group: "champion",
       x: 192,
       y: 0,
@@ -6820,7 +7128,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Zilean",
     key: "26",
     name: "Zilean",
@@ -6831,7 +7139,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/26.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/26.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/26.png",
       group: "champion",
       x: 240,
       y: 0,
@@ -6864,7 +7172,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Zoe",
     key: "142",
     name: "Zoe",
@@ -6875,7 +7183,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/142.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/142.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/142.png",
       group: "champion",
       x: 288,
       y: 0,
@@ -6908,7 +7216,7 @@ const champions = [
     },
   },
   {
-    version: "12.2.1",
+    version: "13.18.1",
     id: "Zyra",
     key: "143",
     name: "Zyra",
@@ -6919,7 +7227,7 @@ const champions = [
     image: {
       full: "https://lolg-cdn.porofessor.gg/img/d/champion-banners/143.jpg",
       sprite:
-        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/12.2/64/143.png",
+        "https://lolg-cdn.porofessor.gg/img/d/champion-icons/13.18/64/143.png",
       group: "champion",
       x: 336,
       y: 0,
